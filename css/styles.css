@@ -1,0 +1,62 @@
+body{
+  background-color: #EAF6F6;
+}
+
+h1{
+  color: #66bfbf;
+  font-size: 40px;
+  font-weight: bold;
+  width: 62%;
+  border-style: ridge;
+  border-top-style: double;
+  border-bottom: solid;
+  border-width: 10px;
+
+}
+
+h2{color: #66BFBF;
+  background-color: black;
+   width: 23%;
+}
+
+h3{
+  color: #66BFBF;
+  background-color: black;
+  width: 23%;
+}
+
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+/* how to specify with different background color image using class....
+.chablesz1{
+  background-color: red;
+}
+.chablesz2{
+  background-color: green;
+}
+this is example*/
+
+label{
+  color: blue;
+}
+input{
+  color: red;
+
+}
+font{
+  color: blue;
+
+}
+a{
+  color: blue;
+}
+.ios{
+  background-color: grey;
+}
+
+<link rel="stylesheet" href="css/styles.css"60px
