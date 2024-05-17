@@ -1,5 +1,7 @@
 body{
   background-color: #EAF6F6;
+  text-align:center;
+
 }
 
 h1{
@@ -23,7 +25,10 @@ h3{
   color: #66BFBF;
   
 }
-
+hr{
+  boder-style:
+}
+/*
 hr{
   border-style:none;
   border-top-style: dotted;
@@ -31,6 +36,7 @@ hr{
   border-width: 5px;
   width: 10%;
 }
+*/
 /* how to specify with different background color image using class....
 .chablesz1{
   background-color: red;
